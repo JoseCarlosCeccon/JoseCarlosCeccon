@@ -1,8 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou José Carlos Ceccon! 👋
-
+José Carlos Ceccon
 ### Software Developer | AI & Computer Vision Researcher
 
 Graduando em Sistemas de Informação no **Instituto Federal do Espírito Santo (Ifes)**, com interesse em desenvolvimento de software, inteligência artificial e pesquisa aplicada.
