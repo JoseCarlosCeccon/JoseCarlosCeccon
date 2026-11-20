@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # José Carlos Ceccon
@@ -7,6 +6,7 @@
 Graduando em Sistemas de Informação no **Instituto Federal do Espírito Santo (Ifes)**, com interesse em desenvolvimento de software, inteligência artificial e pesquisa aplicada.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseCarlosCeccon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-carlos-ceccon-neto-8940b229b)
 
 </div>
 
@@ -70,9 +70,10 @@ Atualmente, meus estudos e projetos se concentram em:
 
 ### 📫 Contato
 
-Você pode acompanhar meus projetos e contribuições aqui no GitHub.
+Você pode acompanhar meus projetos e contribuições por aqui ou se conectar comigo no LinkedIn.
 
-**GitHub:** [github.com/JoseCarlosCeccon](https://github.com/JoseCarlosCeccon)
+- **GitHub:** [github.com/JoseCarlosCeccon](https://github.com/JoseCarlosCeccon)
+- **LinkedIn:** [linkedin.com/in/josé-carlos-ceccon-neto-8940b229b](https://www.linkedin.com/in/josé-carlos-ceccon-neto-8940b229b)
 
 ---
 
