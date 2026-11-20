@@ -7,6 +7,7 @@ Graduando em Sistemas de Informação no **Instituto Federal do Espírito Santo 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseCarlosCeccon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-carlos-ceccon-neto-8940b229b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jccecconneto/)
 
 </div>
 
@@ -70,10 +71,11 @@ Atualmente, meus estudos e projetos se concentram em:
 
 ### 📫 Contato
 
-Você pode acompanhar meus projetos e contribuições por aqui ou se conectar comigo no LinkedIn.
+Você pode acompanhar meus projetos e contribuições por aqui ou se conectar comigo nas redes abaixo.
 
 - **GitHub:** [github.com/JoseCarlosCeccon](https://github.com/JoseCarlosCeccon)
 - **LinkedIn:** [linkedin.com/in/josé-carlos-ceccon-neto-8940b229b](https://www.linkedin.com/in/josé-carlos-ceccon-neto-8940b229b)
+- **Instagram:** [@jccecconneto](https://www.instagram.com/jccecconneto/)
 
 ---
 
